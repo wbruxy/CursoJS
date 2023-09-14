@@ -24,9 +24,9 @@ console.log(nomeClinte);
 // Utilizamos camelCase
 // Case-sensitive
 // Não podemos redeclarar variáveis com let
-// NÃO UTILLIZE "var", UTILIZE "let".
+// NÃO UTILIZE "var", UTILIZE "let".
 let nomeCompletoDoCliente = 'Bruna Silva';
 console.log(nomeCompletoDoCliente);
 
-let nomecliente = 'Bruxy';
+let nomecliente = 'Luan Kurihara';
 console.log(nomeClinte, nomecliente);
